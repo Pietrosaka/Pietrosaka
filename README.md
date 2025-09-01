@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, eu sou Pietro Saccarrão Cougo</h1>
+<h1 align="center">Olá 👋, eu Sou Pietro Saccarrão Cougo</h1>
 <h3 align="center">Analista de Sistemas e Analista de Dados</h3>
 
 <p align="center">
