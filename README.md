@@ -5,6 +5,10 @@
   <img src="https://github.com/Pietrosaka.png" width="150" alt="Foto de perfil do Pietro" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Pietrosaka&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
 ---
 
 <p align="center" style="max-width: 650px; font-size: 1.1em;">
