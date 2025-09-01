@@ -1,5 +1,5 @@
 <h1 align="center">Pietro Saccarrão Cougo</h1>
-<h3 align="center">Analista de Dados</h3>
+<h3 align="center">Analista de Sistemas e Dados</h3>
 
 <p align="center">
   <img src="https://github.com/Pietrosaka.png" width="150" alt="Foto de perfil do Pietro" />
