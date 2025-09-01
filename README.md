@@ -26,7 +26,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="Canva" /> <img width="10"/>
 
   <!-- Power BI - versão colorida confiável -->
-  <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/master/Power%20BI%20Logo.svg" height="30" alt="Power BI" /> <img width="10"/>
+  <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/master/Power%20BI%20Logo.svg" height="30" alt="Power BI" />
 
   <!-- SQL Server - logo oficial colorido -->
   <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/master/SQL%20Server%20Logo.svg" height="30" alt="SQL Server" /> <img width="10"/>
