@@ -22,7 +22,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="30" alt="Oracle" /> <img width="10"/>
 
   <!-- Microsoft icons oficiais -->
-  <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/master/Power%20BI%20Logo.svg" height="30" alt="Power BI" /> <img width="10"/>
+  <img align="center" alt="Wesley-PowerBI" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg"/>
   <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/master/Excel%20Logo.svg" height="30" alt="Excel" /> <img width="10"/>
   <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/master/SQL%20Server%20Logo.svg" height="30" alt="SQL Server" /> <img width="10"/>
   <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/master/Azure%20Logo.svg" height="30" alt="Azure" /> <img width="10"/>
