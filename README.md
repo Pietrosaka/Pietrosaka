@@ -37,6 +37,30 @@
 
 ---
 
+### 📊 Minhas Estatísticas no GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Pietrosaka&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="Estatísticas do GitHub" />
+</p>
+
+---
+
+### 🛠️ Linguagens mais usadas
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pietrosaka&layout=compact&theme=radical&hide_border=true" alt="Linguagens mais usadas" />
+</p>
+
+---
+
+### 🏆 Troféus do GitHub
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Pietrosaka&theme=radical&no-frame=true&no-bg=true" alt="Troféus do GitHub" />
+</p>
+
+---
+
 ### 📬 Contato
 
 <p align="center">
