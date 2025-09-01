@@ -25,7 +25,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="30" alt="Power BI" /> <img width="10"/>
   <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/master/Excel%20Logo.svg" height="30" alt="Excel" /> <img width="10"/>
   <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/master/SQL%20Server%20Logo.svg" height="30" alt="SQL Server" /> <img width="10"/>
-  <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/master/Azure%20Logo.svg" height="30" alt="Azure" /> <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="Azure" /> <img width="10"/>
 
   <!-- Outros ícones -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="Jupyter Notebook" /> <img width="10"/>
