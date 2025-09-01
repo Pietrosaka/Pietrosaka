@@ -7,37 +7,40 @@
 
 ---
 
-🎯 Profissional dedicado à **análise de dados**, **modelagem e gestão de bancos de dados**, e **visualização estratégica de informações**, sempre com foco em transformar dados em insights valiosos.
+<p align="center" style="max-width: 650px; font-size: 1.1em;">
+🎯 Profissional dedicado à <strong>análise de dados</strong>, <strong>modelagem e gestão de bancos de dados</strong> e <strong>visualização estratégica de informações</strong>, sempre com foco em transformar dados em insights valiosos.
+</p>
 
 ---
 
-### Tecnologias & Ferramentas
+### 🚀 Tecnologias & Ferramentas
 
-<div align="left">
+<div align="center" style="margin-top: 10px;">
+
   <!-- Linguagens & bancos -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" /> <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="C#" /> <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="MySQL" /> <img width="10"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" height="30" alt="MongoDB" /> <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="30" alt="Oracle" /> <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="Oracle" />&nbsp;&nbsp;
 
   <!-- Microsoft icons oficiais -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="30" alt="Power BI" /> <img width="10"/>
-  <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/master/Excel%20Logo.svg" height="30" alt="Excel" /> <img width="10"/>
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" height="30" alt="SQL Server" /> <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="Azure" /> <img width="10"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="40" alt="Power BI" />&nbsp;&nbsp;
+  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" height="40" alt="SQL Server" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="Azure" />&nbsp;&nbsp;
 
   <!-- Outros ícones -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="Jupyter Notebook" /> <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="VS Code" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="Jupyter Notebook" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" />
+
 </div>
 
 ---
 
-### Contato
+### 📬 Contato
 
-<p align="left">
-  <a href="mailto:pietrocougo@gmail.com" target="_blank">
+<p align="center">
+  <a href="mailto:pietrocougo@gmail.com" target="_blank" style="margin-right: 15px;">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&style=for-the-badge" height="35" alt="Gmail" />
   </a>
   <a href="https://www.linkedin.com/in/pietro-saccarrão-cougo" target="_blank">
