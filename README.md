@@ -11,10 +11,10 @@
 
 ---
 
-###  Tecnologias & Ferramentas
+### Tecnologias & Ferramentas
 
 <div align="left">
-  <!-- Devicon standard -->
+  <!-- Devicon -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" /> <img width="10"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="MySQL" /> <img width="10"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" height="30" alt="MongoDB" /> <img width="10"/>
@@ -25,21 +25,31 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="Figma" /> <img width="10"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="Canva" /> <img width="10"/>
 
-  <!-- Ícones externos via Wikimedia Commons (domínio público) -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/New_Power_BI_Logo.svg" height="30" alt="Power BI" /> <img width="10"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Microsoft_SQL_Server_2025_icon.svg" height="30" alt="SQL Server" /> <img width="10"/>
+  <!-- Power BI - versão colorida confiável -->
+  <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/master/Power%20BI%20Logo.svg" height="30" alt="Power BI" /> <img width="10"/>
 
-  <!-- Ícones complementares (Excel, Jupyter, VS Code, Azure, Google Cloud) via fontes confiáveis -->
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/microsoftexcel.svg" height="30" alt="Excel" /> <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/jupyter.svg" height="30" alt="Jupyter Notebook" /> <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/visualstudiocode.svg" height="30" alt="VS Code" /> <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/microsoftazure.svg" height="30" alt="Azure" /> <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/googlecloud.svg" height="30" alt="Google Cloud" />
+  <!-- SQL Server - logo oficial colorido -->
+  <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/master/SQL%20Server%20Logo.svg" height="30" alt="SQL Server" /> <img width="10"/>
+
+  <!-- Excel -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftexcel/microsoftexcel-original.svg" height="30" alt="Excel" /> <img width="10"/>
+
+  <!-- Jupyter Notebook -->
+  <img src="https://raw.githubusercontent.com/jupyter/design/master/logos/rectanglelogo-greytext.svg" height="30" alt="Jupyter Notebook" /> <img width="10"/>
+
+  <!-- VS Code -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="VS Code" /> <img width="10"/>
+
+  <!-- Azure -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="Azure" /> <img width="10"/>
+
+  <!-- Google Cloud -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30" alt="Google Cloud" />
 </div>
 
 ---
 
-###  Contato
+### Contato
 
 <p align="left">
   <a href="mailto:pietrocougo@gmail.com" target="_blank">
