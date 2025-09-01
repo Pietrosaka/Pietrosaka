@@ -2,19 +2,19 @@
 <h3 align="center">Analista de Dados</h3>
 
 <p align="center">
-  <img src="https://github.com/Pietrosaka.png" width="150" alt="Foto de perfil" />
+  <img src="https://github.com/Pietrosaka.png" width="150" alt="Foto de perfil do Pietro" />
 </p>
 
 ---
 
-🎯 Profissional dedicado à análise de dados, bancos de dados e visualização de informação estratégica.
+🎯 Profissional dedicado à **análise de dados**, **modelagem e gestão de bancos de dados**, e **visualização estratégica de informações**, sempre com foco em transformar dados em insights valiosos.
 
 ---
 
-###  Tecnologias e Ferramentas
+###  Tecnologias & Ferramentas
 
 <div align="left">
-  <!-- Ícones via Devicon -->
+  <!-- Devicon standard -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" /> <img width="10"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="MySQL" /> <img width="10"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" height="30" alt="MongoDB" /> <img width="10"/>
@@ -25,14 +25,16 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="Figma" /> <img width="10"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="Canva" /> <img width="10"/>
 
-  <!-- Ícones externos (Power BI, Excel etc.) -->
-  <img src="https://commons.wikimedia.org/wiki/File:New_Power_BI_Logo.svg" height="30" alt="Power BI Logo" /> <img width="10"/>
-  <img src="https://uxwing.com/microsoft-excel-icon/" height="30" alt="Excel" /> <img width="10"/>
-  <img src="https://icon-sets.iconify.design/devicon-plain/microsoftsqlserver/" height="30" alt="SQL Server" /> <img width="10"/>
-  <img src="https://icon-sets.iconify.design/devicon-plain/jupyter-wordmark/" height="30" alt="Jupyter Notebook" /> <img width="10"/>
-  <img src="https://icon-sets.iconify.design/devicon/vscode/" height="30" alt="VS Code" /> <img width="10"/>
-  <img src="https://icon-sets.iconify.design/devicon/azure/" height="30" alt="Azure" /> <img width="10"/>
-  <img src="https://icon-sets.iconify.design/devicon/googlecloud/" height="30" alt="Google Cloud" />
+  <!-- Ícones externos via Wikimedia Commons (domínio público) -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/New_Power_BI_Logo.svg" height="30" alt="Power BI" /> <img width="10"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Microsoft_SQL_Server_2025_icon.svg" height="30" alt="SQL Server" /> <img width="10"/>
+
+  <!-- Ícones complementares (Excel, Jupyter, VS Code, Azure, Google Cloud) via fontes confiáveis -->
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/microsoftexcel.svg" height="30" alt="Excel" /> <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/jupyter.svg" height="30" alt="Jupyter Notebook" /> <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/visualstudiocode.svg" height="30" alt="VS Code" /> <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/microsoftazure.svg" height="30" alt="Azure" /> <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/googlecloud.svg" height="30" alt="Google Cloud" />
 </div>
 
 ---
