@@ -19,24 +19,35 @@
 
 ### 🚀 Tecnologias & Ferramentas
 
-<div align="center" style="margin-top: 10px;">
+<div align="center">
+  <!-- Vermelhos / Laranjas -->
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" alt="PowerPoint" />
+  <img src="https://img.shields.io/badge/Databricks-FC6D26?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
 
-  <!-- Linguagens & bancos -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="Oracle" />&nbsp;&nbsp;
+  <!-- Amarelos / Dourados -->
+  <img src="https://img.shields.io/badge/Power_BI-F2C80F?style=for-the-badge&logo=power-bi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
 
-  <!-- Microsoft icons oficiais -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="40" alt="Power BI" />&nbsp;&nbsp;
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" height="40" alt="SQL Server" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="Azure" />&nbsp;&nbsp;
+  <!-- Verdes -->
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 
-  <!-- Outros ícones -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="Jupyter Notebook" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" />
+  <!-- Azuis -->
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud" />
+  <img src="https://img.shields.io/badge/Chrome-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Chrome" />
 
+  <!-- Roxos / Neutros -->
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
+  <img src="https://img.shields.io/badge/PL_SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="PL SQL" />
+  <img src="https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" alt="Word" />
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
+  <img src="https://img.shields.io/badge/Metabase-00B7C2?style=for-the-badge&logo=metabase&logoColor=white" alt="Metabase" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </div>
 
 ---
@@ -68,10 +79,10 @@
 ### 📬 Contato
 
 <p align="center">
-  <a href="mailto:pietrocougo@gmail.com" target="_blank" style="margin-right: 15px;">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&style=for-the-badge" height="35" alt="Gmail" />
+  <a href="mailto:pietrocougo@gmail.com" target="_blank" style="margin-right: 10px;">
+    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&color=D14836&style=for-the-badge" height="35" alt="Email" />
   </a>
-  <a href="https://www.linkedin.com/in/pietro-saccarrão-cougo" target="_blank">
+  <a href="https://www.linkedin.com/in/pietro-saccarrão-cougo" target="_blank" style="margin-right: 10px;">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&style=for-the-badge" height="35" alt="LinkedIn" />
   </a>
 </p>
